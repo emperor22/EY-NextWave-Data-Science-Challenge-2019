@@ -1,2 +1,3 @@
 EY NextWave Data Science competition 2019 focuses on how data can help the next smart city thrive, and boost the mobility of the future. In this competition, systematic data mining and processing ideas are used. Here is the codes.
-If you are intrested in my ideas in this competition, welcome to visit my website for more details. Please click [HERE](https://www.zhongyu.site/post/2019-6-ey/ 'zhongyu.site')
+
+If you are intrested in my ideas in this competition, welcome to visit my website for more details. Please click [HERE](https://www.zhongyu.site/post/2019-6-ey/ 'zhongyu.site').
