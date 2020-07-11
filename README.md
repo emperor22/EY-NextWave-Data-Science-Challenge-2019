@@ -1,0 +1,1 @@
+EY NextWave Data Science competition 2019 focuses on how data can help the next smart city thrive, and boost the mobility of the future. In this competition, systematic data mining and processing ideas are used. Here is the codes.
