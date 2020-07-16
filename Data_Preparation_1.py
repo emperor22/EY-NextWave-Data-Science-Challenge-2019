@@ -1,3 +1,4 @@
+'''python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
@@ -33,6 +34,4 @@ r_1.columns=['id','target']
 #write to csv
 r_0.to_csv("submission_0.csv",index=False,sep=',')
 r_1.to_csv("submission_1.csv",index=False,sep=',')
-
-#监督学习，用决策树，xgboost进行模型训练
-
+'''
